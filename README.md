@@ -25,5 +25,7 @@
 * 매 주 모임에서 게임 하나(인디건 아니건) 5분 가량 [[소개]]
 
 ### 참고
-* Markdown (wiki 언어)
 * [Google Developers Python Course](https://www.youtube.com/playlist?list=PLfZeRfzhgQzTMgwFVezQbnpc1ck0I6CQl)
+* Markdown (wiki 언어)
+* [Jupytor](http://jupyter.org/)
+    * [Rendering Notebooks on GitHub](http://blog.jupyter.org/2015/05/07/rendering-notebooks-on-github/)
