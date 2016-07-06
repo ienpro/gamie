@@ -7,10 +7,9 @@
 * 김혜미 mee9619@naver.com
 
 ### 바로 할 일
-* 각각 Github에 계정 만들고 ienrpo가 초대
-* 위 '사람들' 부분 완성(이메일 등)
+* 게임 소개 페이지 정리(김혜미)
+* 숙제 게시판 정리(강병민)
 * 설치
-    1. [Python](https://www.python.org/): 3.x 버전 설치(2.x 아님)
     1. ~~Eclipse~~
     1. ~~[PyDev](http://www.pydev.org/) 설치 (Eclipse에서 Python을 쓰기 위해)~~
         * Eclipse menu에서 Help--Install New Software
@@ -29,3 +28,7 @@
 * Markdown (wiki 언어)
 * [Jupytor](http://jupyter.org/)
     * [Rendering Notebooks on GitHub](http://blog.jupyter.org/2015/05/07/rendering-notebooks-on-github/)
+
+### 설치
+1. [Python](https://www.python.org/): 3.x 버전 설치(2.x 아님)
+2. Notepad++
