@@ -22,7 +22,7 @@
 * [Python 공부 시작](../../wiki/Python-공부-시작)
 
 ### Game
-* 매 주 모임에서 게임 하나(인디건 아니건) 5분 가량 [[소개]]
+* 매 주 모임에서 게임 하나(인디건 아니건) 5분 가량 [소개](../../wiki/소개)
 
 ### 참고
 * [Google Developers Python Course](https://www.youtube.com/playlist?list=PLfZeRfzhgQzTMgwFVezQbnpc1ck0I6CQl)
