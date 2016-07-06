@@ -16,10 +16,10 @@
         * Eclipse menu에서 Help--Install New Software
         * Add button 누르고
 
-### [회의록](../../시작-회의록)
+### [회의록](../../wiki/시작-회의록)
 
 ### Study
-* [Python 공부 시작](../../Python-공부-시작)
+* [Python 공부 시작](../../wiki/Python-공부-시작)
 
 ### Game
 * 매 주 모임에서 게임 하나(인디건 아니건) 5분 가량 [[소개]]
