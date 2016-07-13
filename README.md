@@ -26,7 +26,7 @@
 ### 참고
 * [Google Developers Python Course](https://www.youtube.com/playlist?list=PLfZeRfzhgQzTMgwFVezQbnpc1ck0I6CQl)
 * Markdown (wiki 언어)
-* [Jupytor](http://jupyter.org/)
+* [Jupyter](http://jupyter.org/)
     * [Rendering Notebooks on GitHub](http://blog.jupyter.org/2015/05/07/rendering-notebooks-on-github/)
 
 ### 설치
