@@ -27,15 +27,16 @@ print(type)
 
 Ex) 5.3
 
->>> def check_fermat(a,b,c,n):
-	if n>2:
-		
-		if a**n + b**n == c**n:
-			print("페르마가 틀렸다!")
-		elif a**n + b**n != c**n:
-			print("아냐, 그건 아니지.")
-	else:
-		print("n은 2보다 커야 합니다")
+```
+def check_fermat(a,b,c,n):
+    if n>2:
+        if a**n + b**n == c**n:
+            print("페르마가 틀렸다!")
+        elif a**n + b**n != c**n:
+            print("아냐, 그건 아니지.")
+    else:
+        print("n은 2보다 커야 합니다")
+```
 
 Ex) 5.4
 
