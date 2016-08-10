@@ -42,3 +42,15 @@ def eval_loop():
 		print(eval(num))
 		
 
+##Exercise 7.5
+
+def estimate_pi():
+	import math
+	while True :
+		k=0
+		a=factorial(4*k)*(1103+26390*k)/factorial(k)**4 * 396**(4*k)
+		k=k+1
+
+	result = 2*math.sqrt(2)/9801 * a
+	print(result)
+	print(abs(result-math.pi))
