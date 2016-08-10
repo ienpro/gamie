@@ -25,9 +25,9 @@ Hello
 >>>def Hi(type)
 print(type)
 
-Ex) 5.3
+* Ex) 5.3
 
-```
+```python
 def check_fermat(a,b,c,n):
     if n>2:
         if a**n + b**n == c**n:
