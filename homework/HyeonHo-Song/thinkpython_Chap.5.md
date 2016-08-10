@@ -13,7 +13,7 @@ Hello
 Hello
 
 
-Ex) 5.2
+* Ex) 5.2
 
 >>> def do_n(a,n):
 	if n<=0:
