@@ -34,6 +34,6 @@
 1. [Python](https://www.python.org/): 3.x 버전 설치(2.x 아님)
 2. Notepad++
 3. [Kivy](http://www.lfd.uci.edu/~gohlke/pythonlibs/#kivy) 설치 (게임 만들때 이용할 프로그램입니다)
-        * 설치 후 실행에서 cmd를 실행
-        * 커맨드 창에서 pip 실행
-        * 실행 후 pip install "C:\Users\HyeonHo\Downloads\Kivy-1.9.1+sdl2-cp35-none-win32.whl"(kivy가 깔려있는 주소를 친다. 이건 예시)
+       + 설치 후 실행에서 cmd를 실행
+       + 커맨드 창에서 pip 실행
+       + 실행 후 pip install "C:\Users\HyeonHo\Downloads\Kivy-1.9.1+sdl2-cp35-none-win32.whl"(kivy가 깔려있는 주소를 친다. 이건 예시)
