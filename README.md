@@ -15,6 +15,10 @@
     1. ~~[PyDev](http://www.pydev.org/) 설치 (Eclipse에서 Python을 쓰기 위해)~~
         * Eclipse menu에서 Help--Install New Software
         * Add button 누르고
+    1. ~~[Kivy](http://www.lfd.uci.edu/~gohlke/pythonlibs/#kivy) 설치 (게임 만들때 이용할 프로그램입니다)
+        * 설치 후 실행에서 cmd를 실행
+        * 커맨드 창에서 pip 실행
+        * 실행 후 pip install "C:\Users\HyeonHo\Downloads\Kivy-1.9.1+sdl2-cp35-none-win32.whl"(kivy가 깔려있는 주소를 친다. 이건 예시)
 
 ### [회의록](../../wiki/시작-회의록)
 
