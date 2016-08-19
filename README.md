@@ -29,6 +29,7 @@
 * Markdown (wiki 언어)
 * [Jupyter](http://jupyter.org/)
     * [Rendering Notebooks on GitHub](http://blog.jupyter.org/2015/05/07/rendering-notebooks-on-github/)
+*[markdown 문법](http://rmarkdown.rstudio.com/authoring_basics.html)
 
 ### 설치
 1. [Python](https://www.python.org/): 3.x 버전 설치(2.x 아님)
