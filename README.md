@@ -2,7 +2,6 @@
 * 송현호(동아리장) shh03090@gmail.com
 * 강병민(총무) lkjhg1001@naver.com
 * 홍정민 hjm215@naver.com
-* 사공진 jinsagong@naver.com
 * 이정민 dlwjdals6424@naver.com
 * 김혜미 mee9619@naver.com
 * 이상욱 wook9451@gmail.com
