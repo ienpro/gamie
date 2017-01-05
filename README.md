@@ -6,8 +6,9 @@
 * 김혜미 mee9619@naver.com
 * 이상욱 wook9451@gmail.com
 * 백승윤 abaik100@naver.com
-* 신혜 hyjina6333@naver.com
-         
+* 신혜진 hyjina6333@naver.com
+* 한광욱 baramukki@naver.com  
+
 ### 바로 할 일
 * 게임 소개 페이지 정리(김혜미)
 * 숙제 게시판 정리(강병민)
