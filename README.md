@@ -9,7 +9,7 @@
 * 신혜진 hyjina6333@naver.com
 * 한광욱 baramukki@naver.com  
 * 손승빈 thstmdqls@naver.com  
-* 김승수 
+* 김승수 kimsungsu1@naver.com
 * 김태홍 th5190@naver.com
 * 류서영 seoyeong68@naver.com
 * 이광석 
