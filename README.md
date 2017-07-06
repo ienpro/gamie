@@ -10,8 +10,8 @@
 * 한광욱 baramukki@naver.com  
 * 손승빈 thstmdqls@naver.com  
 * 김승수 
-* 김태홍 
-* 류서영 
+* 김태홍 th5190@naver.com
+* 류서영 seoyeong68@naver.com
 * 이광석 
 
 
