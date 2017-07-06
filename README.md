@@ -9,6 +9,10 @@
 * 신혜진 hyjina6333@naver.com
 * 한광욱 baramukki@naver.com  
 * 손승빈 thstmdqls@naver.com  
+* 김승수 
+* 김태홍 
+* 류서영 
+* 이광석 
 
 
 ### 바로 할 일
