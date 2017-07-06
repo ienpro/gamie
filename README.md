@@ -1,4 +1,4 @@
-### 사람들
+### Member
 * 송현호(동아리장) shh03090@gmail.com
 * 강병민(총무) lkjhg1001@naver.com
 * 홍정민 hjm215@naver.com
@@ -14,6 +14,9 @@
 * 류서영 seoyeong68@naver.com
 * 이광석 
 
+### Summer Vacation Project
+* 
+* 
 
 ### 바로 할 일
 * 게임 소개 페이지 정리(김혜미)
