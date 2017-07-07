@@ -12,7 +12,7 @@
 * 김승수 kimsungsu1@naver.com
 * 김태홍 th5190@naver.com
 * 류서영 seoyeong68@naver.com
-* 이광석 
+* 이광석 tjr4115@naver.com
 
 ### Summer Vacation Project
 * 
