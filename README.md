@@ -13,10 +13,12 @@
 * 김태홍 th5190@naver.com
 * 류서영 seoyeong68@naver.com
 * 이광석 tjr4115@naver.com
+* 윤명훈 audgnsdhvkf@naver.com
+* 이상재 selflsj@gmail.com
 
 ### Summer Vacation Project
-* 
-* 
+* 1팀 : 네모네모로직 게임만들기(UI)
+* 2팀 : RushHour 게임만들기(UI)
 
 ### 바로 할 일
 * 게임 소개 페이지 정리(김혜미)
